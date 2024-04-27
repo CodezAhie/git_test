@@ -1,2 +1,2 @@
 My first repo in github
-learning git
+learning gitgit st
